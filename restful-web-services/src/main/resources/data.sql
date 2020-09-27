@@ -1,0 +1,2 @@
+insert into user values(101, 1, sysdate(),'nandha@cts.com', 'nandhakumar', 'ABCD123456', 'welcome123','nandha' );
+insert into account values(123, 'NandhaKumar', 'Savings', 26800.50, sysdate(), 'NandhaKumar', 'Mani', 1000.00, 101);
